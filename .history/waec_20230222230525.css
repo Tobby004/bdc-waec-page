@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+text-decoration: none;
+color: white;
+} 
+body {
+    background-image: url(waecback.JPG);
+
+}
+nav a img {
+    height: 50px;
+    padding: 10px;
+    
+}
+nav b {
+    max-width: 100%;
+    width: 50px;
+    margin-inline-start: 10px;
+    font-size: 12px;
+    padding-left: 10px;
+    
+}
+div h1{
+color: white;
+margin-top: 100px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div p {
+    text-align: center;
+}
+div h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+div button {
+    display: flex;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: yellow;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: blueviolet;
+}
+div p {
+    color: whitesmoke;
+}

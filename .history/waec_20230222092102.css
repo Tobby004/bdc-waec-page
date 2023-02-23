@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+text-decoration: none;
+} 
+nav a img {
+    height: 40px;
+}

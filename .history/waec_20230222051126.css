@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+}
+nav a img {
+    height: 30px;
+    justify-content: right;
+}

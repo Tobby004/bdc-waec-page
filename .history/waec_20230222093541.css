@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+text-decoration: none;
+color: green;
+} 
+nav a img {
+    height: 50px;
+    padding: 10px;
+    
+}
+nav b {
+    max-width: 100%;
+    width: 50px;
+   margin-inline-start: 10px;
+   color: white;
+}
+div h1{
+color: green;
+margin-top: 100px;
+text-align: center;
+}
